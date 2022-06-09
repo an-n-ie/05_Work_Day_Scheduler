@@ -7,7 +7,7 @@ A calendar application that allows a user to save events for each hour of the da
 ## Usage
 The following image shows the application's appearance and functionality:
 
-![Calendar]()
+![Scheduler](./Assets/Work-Day-Scheduler.png)
 
 ## Credits
 
